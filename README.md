@@ -8,44 +8,46 @@ Klas: SD2A
 Datum: 08/09/2025
 
 1. Titel en elevator pitch
-Titel: tower defense vfbgjinrb
+Titel: tower defense zombie rush
 
 Elevator pitch, maximaal twee zinnen: Beschrijf kort wat jouw game is en waarom het leuk is om te spelen.
 
 2. Wat maakt jouw tower defense uniek
-Beschrijf in één of twee zinnen wat jouw game onderscheidt van een standaard tower defense. Denk aan iets dat de speler op een nieuwe manier laat nadenken of spelen.
+niks echt het is een normale soldaat
 
 3. Schets van je level en UI
-Maak een schets op papier of digitaal en voeg deze afbeelding toe aan je repository. Voeg in deze sectie de afbeelding in.
+gedaan
 
 Je schets bevat minimaal:
-
-Het pad waar de vijanden over lopen met beginpunt en eindpunt.
-De plaatsen waar torens gebouwd kunnen worden.
-De locatie van de basis of goal die verdedigd moet worden.
-De UI onderdelen geld, wave teller, levens, startknop en pauzeknop.
-Een legenda met symbolen of kleuren voor torens, vijanden, pad, basis en UI.
+gedaan
 4. Torens
 Toren 1 naam, bereik, schade, unieke eigenschap.
-
+soldier pistol, 6, 1
 Toren 2 naam, bereik, schade, unieke eigenschap.
-
+soldier AR 10, 1, shiet sneller
 Eventuele extra torens:
-
+soldier minigun 12, 0,5, shiet heel snel
+turret 15, 2, meer dmg
 5. Vijanden
 Vijand 1 naam, snelheid, levens, speciale eigenschap.
-
+zombie normal, 5
 Vijand 2 naam, snelheid, levens, speciale eigenschap.
-
+fast zombie fast, 3
 Eventuele extra vijanden:
-
+big zombie slow, 10
 6. Gameplay loop
-Beschrijf in drie tot vijf stappen wat de speler steeds doet. 1.
+Beschrijf in drie tot vijf stappen wat de speler steeds doet. 
+1. bouwt towers
+2. survived
+3. koopt meer towers
+4. defend tot wave 50
+5. win
 
-7. Progressie
-Leg uit hoe het spel moeilijker wordt naarmate de waves doorgaan. Denk aan sterkere vijanden, kortere tussenpozen, hogere kosten of lagere beloningen.
+  
+ 7. Progressie
+meer zombies
 
-8. Risico’s en oplossingen volgens PIO
+9. Risico’s en oplossingen volgens PIO
 Probleem 1:
 
 Impact:
