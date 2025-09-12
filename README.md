@@ -11,15 +11,14 @@ Datum: 08/09/2025
 Titel: tower defense zombie rush
 
 Elevator pitch, maximaal twee zinnen: Beschrijf kort wat jouw game is en waarom het leuk is om te spelen.
-
+omdat het een tower defense game is met goede mechanics. het heeft leuke towers en enemies.
 2. Wat maakt jouw tower defense uniek
 niks echt, het is een normale soldaat
 
-3. Schets van je level en UI
-gedaan
-
 Je schets bevat minimaal:
-gedaan
+<img width="1152" height="648" alt="map" src="https://github.com/user-attachments/assets/16fdc46f-68b3-4900-94e1-b618cfaabe3c" />
+
+
 4. Torens
 Toren 1 naam, bereik, schade, unieke eigenschap.
 soldier pistol, 6, 1
