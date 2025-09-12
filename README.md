@@ -16,25 +16,25 @@ omdat het een tower defense game is met goede mechanics. het heeft leuke towers 
 niks echt, het is een normale soldaat
 
 Je schets bevat minimaal:
-<img width="1152" height="648" alt="map" src="https://github.com/user-attachments/assets/16fdc46f-68b3-4900-94e1-b618cfaabe3c" />
+<img width="1152" height="648" alt="Naamloos" src="https://github.com/user-attachments/assets/787a6996-a811-4460-b31f-e8b163afafc6" />
+
 
 
 4. Torens
 Toren 1 naam, bereik, schade, unieke eigenschap.
-soldier pistol, 6, 1
+bigetje meet strooi
 Toren 2 naam, bereik, schade, unieke eigenschap.
-soldier AR 10, 1, shiet sneller
+bigetje met houd
 Eventuele extra torens:
-soldier minigun 12, 0,5, shiet heel snel
-turret 15, 2, meer dmg
-5. Vijanden
+bigetje met steen
+6. Vijanden
 Vijand 1 naam, snelheid, levens, speciale eigenschap.
-zombie normal, 5
+wolf
 Vijand 2 naam, snelheid, levens, speciale eigenschap.
-fast zombie fast, 3
+grote boze wolf
 Eventuele extra vijanden:
 big zombie slow, 10
-6. Gameplay loop
+7. Gameplay loop
 Beschrijf in drie tot vijf stappen wat de speler steeds doet. 
 1. bouwt towers
 2. survived
