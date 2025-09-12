@@ -13,7 +13,7 @@ Titel: tower defense zombie rush
 Elevator pitch, maximaal twee zinnen: Beschrijf kort wat jouw game is en waarom het leuk is om te spelen.
 
 2. Wat maakt jouw tower defense uniek
-niks echt het is een normale soldaat
+niks echt, het is een normale soldaat
 
 3. Schets van je level en UI
 gedaan
@@ -113,6 +113,6 @@ Oplossing: het probleem fixen
 Acceptatie: alsjeblieft
 11.5 UI basis
 Keuze: een pad
-Risico: te veel stenen
-Oplossing: sweeper inhuren
+Risico: ze lopen niet goed over het pad heen
+Oplossing: de code fixen
 Acceptatie: alsjeblieft
