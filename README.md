@@ -93,26 +93,26 @@ Oplossing: Als de vijand dichtbij genoeg is kiest hij het volgende punt. Bij de 
 Acceptatie: Tien vijanden lopen van start naar de goal zonder vastlopers en verbruiken elk één leven. Alle tien vijanden bereiken achtereenvolgens elk waypoint binnen één seconde na elkaar.
 11.1 Vijandbeweging over het pad
 Keuze: loopt normaal
-Risico: kan struikelen
-Oplossing: hun leren om goed te wandelen
-Acceptatie: alsjeblieft accepteer dit dragan
+Risico: kan door het pad lopen
+Oplossing: border
+Acceptatie: 10 enemies lopen goed over het pad
 11.2 Doel kiezen en schieten
 Keuze: eerste enemie
 Risico: kan missen
 Oplossing: target coderen
-Acceptatie: alsjeblieft
+Acceptatie: als ze towers de enemies goed hitten
 11.3 Waves en spawnen
 Keuze: meer per wave
 Risico: te veel inspawnen
 Oplossing: coderen
-Acceptatie: acceptatie
+Acceptatie: waneer het goed aantal per wave inspawnt
 11.4 Economie en levens
 Keuze: gold coins en 3 levens
 Risico: dat er geen coins vallen
 Oplossing: het probleem fixen
-Acceptatie: alsjeblieft
+Acceptatie: als het goed amount lives en coins is
 11.5 UI basis
 Keuze: een pad
 Risico: ze lopen niet goed over het pad heen
 Oplossing: de code fixen
-Acceptatie: alsjeblieft
+Acceptatie: als ze goed over het pad lopen zonder bugs
