@@ -48,23 +48,23 @@ Beschrijf in drie tot vijf stappen wat de speler steeds doet.
 meer zombies
 
 9. Risico’s en oplossingen volgens PIO
-Probleem 1:
+Probleem 1: loopt niet over het pad
 
-Impact:
+Impact: game is niet goed
 
-Oplossing:
+Oplossing: beter coderen
 
-Probleem 2:
+Probleem 2: shiet niet op de targets
 
-Impact:
+Impact: game werkt niet
 
-Oplossing:
+Oplossing: beter coderen
 
-Probleem 3:
+Probleem 3: shop werkt niet
 
-Impact:
+Impact: game werkt niet
 
-Oplossing:
+Oplossing: beter coderen
 
 9. Planning per sprint en mechanics
 Schrijf per sprint welke mechanics jij oplevert in de build. Denk aan voorbeelden zoals vijandbeweging over een pad, torens plaatsen, doel kiezen en schieten, waves starten, UI voor geld en levens, upgrades, jouw unieke feature.
@@ -92,27 +92,27 @@ Risico: Een vijand loopt een punt voorbij of blijft hangen.
 Oplossing: Als de vijand dichtbij genoeg is kiest hij het volgende punt. Bij de goal gaat één leven omlaag en verdwijnt de vijand.
 Acceptatie: Tien vijanden lopen van start naar de goal zonder vastlopers en verbruiken elk één leven. Alle tien vijanden bereiken achtereenvolgens elk waypoint binnen één seconde na elkaar.
 11.1 Vijandbeweging over het pad
-Keuze:
-Risico:
-Oplossing:
-Acceptatie:
+Keuze: loopt normaal
+Risico: kan struikelen
+Oplossing: hun leren om goed te wandelen
+Acceptatie: alsjeblieft accepteer dit dragan
 11.2 Doel kiezen en schieten
-Keuze:
-Risico:
-Oplossing:
-Acceptatie:
+Keuze: eerste enemie
+Risico: kan missen
+Oplossing: target coderen
+Acceptatie: alsjeblieft
 11.3 Waves en spawnen
-Keuze:
-Risico:
-Oplossing:
-Acceptatie:
+Keuze: meer per wave
+Risico: te veel inspawnen
+Oplossing: coderen
+Acceptatie: acceptatie
 11.4 Economie en levens
-Keuze:
-Risico:
-Oplossing:
-Acceptatie:
+Keuze: gold coins en 3 levens
+Risico: dat er geen coins vallen
+Oplossing: het probleem fixen
+Acceptatie: alsjeblieft
 11.5 UI basis
-Keuze:
-Risico:
-Oplossing:
-Acceptatie:
+Keuze: een pad
+Risico: te veel stenen
+Oplossing: sweeper inhuren
+Acceptatie: alsjeblieft
