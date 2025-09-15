@@ -33,7 +33,6 @@ wolf
 Vijand 2 naam, snelheid, levens, speciale eigenschap.
 grote boze wolf
 Eventuele extra vijanden:
-big zombie slow, 10
 7. Gameplay loop
 Beschrijf in drie tot vijf stappen wat de speler steeds doet. 
 1. bouwt towers
